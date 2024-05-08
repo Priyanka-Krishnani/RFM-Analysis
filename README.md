@@ -52,3 +52,12 @@ This is another customer segment that takes into consideration only one of the t
 Customers who score high for frequency but low in monetary value tend to respond best to product recommendations based on past purchases, as well as incentives tied to spending thresholds (e.g., a free gift for transactions above the brand’s average order value).
 #### Your at-risk customers: 
 Customers who have been in your top tier in the past (best, big spenders and/or loyal) but who now score low for recency and frequency present a special opportunity. Marketers should consider targeting them with messages aimed at retention, such as discount pricing, exclusive offers and new product launches. With the help of your CDP, you can even create specific customer journeys aimed at re-engaging and retaining at-risk customers.
+
+## Advantages of using RFM analysis:
+Increase the effectiveness of email marketing campaigns: Build an automated drip campaign with messages tailored to each segment.
+
+Increase loyalty and user engagement: Follow up with recent customers or new customers with timely promotions and educational content likely to increase their engagement with your brand.
+
+Decrease churn: Send personalized messages, offer repeat purchases at a discount or provide surveys that help you understand and address potential concerns.
+
+Reduce marketing costs and increase ROI: Reduce costs by focusing quickly and easily on smaller segments that are more likely to produce revenue and use insights from RFM analysis to optimize campaigns going forward
